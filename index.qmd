@@ -1,7 +1,30 @@
 ---
-title: "kellyloveskelp.github.io"
+title: Kelly Morgan
+image: images/boat_grundens1.jpeg
+about: 
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/kellyloveskelp
+      target: _blank_
+    - text: Email
+      icon: envelope-fill
+      href: mailto:kellyloveskelp@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://www.github.com/kellyloveskelp
+      target: _blank_
 ---
 
-This is a Quarto website.
+### My name's Kelly and I love kelp!
+
+Growing up in California, Kelly spent her childhood diving in giant kelp forests and sailing around the Channel Islands. These formative experiences inspired her to pursue Integrative Biology and Marine Science as an undergraduate at the University of California, Berkeley, where she worked with the Martin Fish Speciation Lab. Following graduation, she continued to sail internationally, conducting research in physical and chemical oceanography, tropical island marine ecology, and pelagic population genetics.
+
+Kelly's professional journey brought her to the East Coast, where she worked as a shellfish farmer and charter captain. She was one of seven apprentices in the second cohort to complete an aquaculture trade apprenticeship through the Maine Department of Labor. She particularly valued the opportunity to educate visitors about the benefits of regenerative seafood production.
+
+During her time on the East Coast, Kelly earned a graduate certificate in Geospatial Science from the University of New Hampshire. As a geospatial scientist, she applied machine learning techniques to analyze aerial imagery of near-shore environments and supported decision-makers in coastal resource management. At Bren, she seeks to further develop her expertise in software engineering and remote sensing to advance innovative solutions for the blue economy.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
